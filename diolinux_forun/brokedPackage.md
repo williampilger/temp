@@ -72,3 +72,15 @@ Processamento parou porque havia muitos erros.
  **obs:** Acima em dois pontos eu coloquei `[...]` apenas para não repetir as inúmeras vezes que o mesmo erro aparece.
  
  Tenho a impressão de que o gerenciador de pacotes tenha sido danificado, alguém já passou por isso e saberia me dar uma luz?
+ 
+ 
+ # Solução
+ 
+ Teste
+ 
+ > sudo dpkg --configure -a
+
+Depois
+
+> sudo apt --fix-broken install
+ sudo apt --fix-broken install
