@@ -7,7 +7,7 @@
 # Features que eu gostaria de ver
 
 - [ ] Link para visualização de painel (por exemplo, uma URL que atualiza em tempo real o status do painel geral, e dos paineis menores(cada fluxo), para colocar no telão dentro  dos setores da empresa, estando as tarefas de todos aparentes. Todos têm uma consiência meio geral de como anda o setor);
-- [ ] O fim de um fluxo poderia ser a criação de um item em outro fluxo (saiu do planejamento, entra na produção)
+- [ ] O fim de um fluxo poderia ser a criação de um item em outro fluxo (saiu do `planejamento`, entra na `produção`, por exemplo)
 
 
 # Coisas não relevantes, mas que eu faria diferente
