@@ -2,7 +2,7 @@
 
 - [ ] na página 'https://mvp.cange.me/task-list' seria útil listar os cards sem data de vencimento também
 - [ ] Na home, depois que tu já tem um fluxo, não precisaria mais exibir as sugestões de cards. (se isso já acontece depois que foi pago, está OK tbm)
-- [ ] Ordenar itens por algum campo (ou por vencimento, por exemplo), para que itens urgentes chamem a atenção, por exemplo.
+- [ ] Ordenar itens por algum campo (ou por vencimento, por exemplo), para que itens urgentes chamem a atenção.
 
 
 # Features que eu gostaria de ver
