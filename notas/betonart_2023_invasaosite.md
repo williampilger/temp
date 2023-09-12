@@ -19,8 +19,8 @@ Pela minha análise, alguém com acesso ao FTP deixou um arquivo PHP infectado (
 
 ## Consequências
 Todos os arquivos `index` e `htaccess` foram perdidos. Se não houve um backup, existem duas possibilidades:
-- **1** Se o site tiver sido feito em WordPress (ou ferramenta semelhante), basta passar uma nova instalação e recuperar tudo
-- **2** Se temos o contato do desenvolvedor que criou isso, podemos pedir uma cópia desses arquivos estáticos e sobrescrever.
+- **1** - Se o site tiver sido feito em WordPress (ou ferramenta semelhante), basta passar uma nova instalação e recuperar tudo
+- **2** - Se temos o contato do desenvolvedor que criou isso, podemos pedir uma cópia desses arquivos estáticos e sobrescrever.
 
 Se não é possível atender uma das possibilidade citadas acima, infelizmente é impossível reverter. Pode-se tentar a recriação dos arquivos index e htaccess, por eles não serem muitos (aparentemente), mas isso pode não funcionar bem, e pode não ser possível também. Levaria muito mais tempo para avaliar.
 
